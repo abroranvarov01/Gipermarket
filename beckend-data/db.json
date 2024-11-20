@@ -1,5 +1,18 @@
 {
-  "users": [],
+  "users": [
+    {
+      "email": "1@gmail.com",
+      "password": "$2a$10$mjuzYGoC.l4f8HNWDWhvOuO.O3o6oyxV6wFDsq3KO6/aeEUeJ/0jS",
+      "number": "212421412",
+      "id": 1
+    },
+    {
+      "email": "101@gmail.com",
+      "password": "$2a$10$Ygm7Fe7IOPYtZth8aBoxUekpOQfDH.P8/bNcCp2sLObiiyht68xKi",
+      "number": "23214214",
+      "id": 2
+    }
+  ],
   "catalog": [
     {
       "id": 1,
@@ -39,20 +52,18 @@
     }
   ],
   "banners": [
-    
-      {
-        "img": "https://olcha.uz/image/original/sliders/ru/JwFP8H3qk55szQrT7xiLJzB71g6gAChEtieJYv4aFEJ3udzLC1mAKRFFInww.png",
-        "id": 800
-      },
-      {
-        "img": "https://olcha.uz/image/original/sliders/ru/etALz7NufgJ8sFKv7ZZgJJPIbCk3ka6pnDQt5brev1etacWH3Vvfl6Xuxa8Q.png",
-        "id": 801
-      },
-      {
-        "img": "https://olcha.uz/image/original/sliders/ru/c1lBPgoshZuCwRyVfkWKxh3J03EzknQdOqNW9Hx1JGAmPsNqydGPCoQnWD2l.png",
-        "id": 802
-      }
-    
+    {
+      "img": "https://olcha.uz/image/original/sliders/ru/JwFP8H3qk55szQrT7xiLJzB71g6gAChEtieJYv4aFEJ3udzLC1mAKRFFInww.png",
+      "id": 800
+    },
+    {
+      "img": "https://olcha.uz/image/original/sliders/ru/etALz7NufgJ8sFKv7ZZgJJPIbCk3ka6pnDQt5brev1etacWH3Vvfl6Xuxa8Q.png",
+      "id": 801
+    },
+    {
+      "img": "https://olcha.uz/image/original/sliders/ru/c1lBPgoshZuCwRyVfkWKxh3J03EzknQdOqNW9Hx1JGAmPsNqydGPCoQnWD2l.png",
+      "id": 802
+    }
   ],
   "brand": [
     {
@@ -426,175 +437,175 @@
     }
   ],
   "sport": [
-      {
-        "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img1.jpg",
-        "title": "Беговая дорожка CF-6-4",
-        "brand": "sportGym",
-        "price": "9 375 000",
-        "id": 60
-      },
-      {
-        "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img2.jpg",
-        "title": "Велотренажёр Grand Fitness GF-0716EA",
-        "brand": "sportGym",
-        "price": 4697000,
-        "id": 61
-      },
-      {
-        "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img3.jpg",
-        "title": "Велотренажёр Grand Fitness 0701",
-        "brand": "sportGym",
-        "price": 3057000,
-        "id": 62
-      },
-      {
-        "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img4.jpg",
-        "title": " Набор гантелей 6 в 1",
-        "brand": "sportGym",
-        "price": 990000,
-        "id": 63
-      },
-      {
-        "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img5.jpg",
-        "title": " Набор гантелей 10кг 6 в 1",
-        "brand": "sportGym",
-        "price": 730000,
-        "id": 64
-      },
-      {
-        "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img6.jpg",
-        "title": "Беговая дорожка PowerGym PG-565Mi",
-        "brand": "sportGym",
-        "price": 9300000,
-        "id": 65
-      },
-      {
-        "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img7.jpg",
-        "title": "Беговая дорожка NewNoble V5",
-        "brand": "NewNoble",
-        "price": 11000000,
-        "id": 66
-      },
-      {
-        "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img8.jpg",
-        "title": "Многофункциональный силовой тренажер PowerGym H83E",
-        "brand": "sportGym",
-        "price": 11130000,
-        "id": 67
-      },
-      {
-        "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img9.jpg",
-        "title": "Платформа для отжиманий с эспандерами 14 в 1",
-        "brand": "NewNoble",
-        "price": 350000,
-        "id": 68
-      },
-      {
-        "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img10.jpeg",
-        "title": "Платформа для отжиманий с эспандерами 14 в 1",
-        "brand": "NewNoble",
-        "price": 350000,
-        "id": 69
-      },
-      {
-        "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img11.jpeg",
-        "title": "Мини степпер PowerGym",
-        "brand": "sportGym",
-        "price": 1050000,
-        "id": 70
-      },
-      {
-        "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img12.jpeg",
-        "title": "Фитнес мяч 85см (904)",
-        "brand": "sportGym",
-        "price": 198000,
-        "id": 71
-      },
-      {
-        "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img19.jpeg",
-        "title": "Ролик массажный 45см (3105)",
-        "brand": "sportGym",
-        "price": 180000,
-        "id": 77
-      },
-      {
-        "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img20.jpeg",
-        "title": "Гантели Резиновые 1.5 кг 2шт (3124)",
-        "brand": "sportGym",
-        "price": 260000,
-        "id": 78
-      },
-      {
-        "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img13.jpeg",
-        "title": "Беговая дорожка PowerGym PG 710",
-        "brand": "sportGym",
-        "price": 7400000,
-        "id": 72
-      },
-      {
-        "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img14.jpeg",
-        "title": "Гимнастический ролик для пресса",
-        "brand": "sportGym",
-        "price": 205000,
-        "id": 73
-      },
-      {
-        "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img15.jpeg",
-        "title": "Упоры для отжимания",
-        "brand": "NewNoble",
-        "price": 186000,
-        "id": 74
-      },
-      {
-        "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img16.jpg",
-        "title": "Велотренажер PowerGym B50",
-        "brand": "sportGym",
-        "price": 3230000,
-        "id": 75
-      },
-      {
-        "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img18.jpeg",
-        "title": "Велотренажер PowerGym B55",
-        "brand": "sportGym",
-        "price": 3700000,
-        "id": 76
-      },
-      {
-        "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img21.jpeg",
-        "title": "Инверсионный стол PowerGym A27",
-        "brand": "NewNoble",
-        "price": 2600000,
-        "id": 79
-      },
-      {
-        "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img22.jpeg",
-        "title": "Универсальная скамья для пресса PowerGym DDS-201",
-        "brand": "PowerGym",
-        "price": 2100000,
-        "id": 80
-      },
-      {
-        "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img23.jpeg",
-        "title": "Универсальная скамья для пресса PowerGym B10",
-        "brand": "PowerGym",
-        "price": 2800000,
-        "id": 81
-      },
-      {
-        "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img24.jpeg",
-        "title": "Многофункциональный силовой тренажер PowerGym H99",
-        "brand": "PowerGym",
-        "price": 15300000,
-        "id": 82
-      },
-      {
-        "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img25.jpeg",
-        "title": "Многофункциональный силовой тренажер PowerGym H68",
-        "brand": "PowerGym",
-        "price": 7201000,
-        "id": 83
-      }
-    ],
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img1.jpg",
+      "title": "Беговая дорожка CF-6-4",
+      "brand": "sportGym",
+      "price": "9 375 000",
+      "id": 60
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img2.jpg",
+      "title": "Велотренажёр Grand Fitness GF-0716EA",
+      "brand": "sportGym",
+      "price": 4697000,
+      "id": 61
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img3.jpg",
+      "title": "Велотренажёр Grand Fitness 0701",
+      "brand": "sportGym",
+      "price": 3057000,
+      "id": 62
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img4.jpg",
+      "title": " Набор гантелей 6 в 1",
+      "brand": "sportGym",
+      "price": 990000,
+      "id": 63
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img5.jpg",
+      "title": " Набор гантелей 10кг 6 в 1",
+      "brand": "sportGym",
+      "price": 730000,
+      "id": 64
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img6.jpg",
+      "title": "Беговая дорожка PowerGym PG-565Mi",
+      "brand": "sportGym",
+      "price": 9300000,
+      "id": 65
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img7.jpg",
+      "title": "Беговая дорожка NewNoble V5",
+      "brand": "NewNoble",
+      "price": 11000000,
+      "id": 66
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img8.jpg",
+      "title": "Многофункциональный силовой тренажер PowerGym H83E",
+      "brand": "sportGym",
+      "price": 11130000,
+      "id": 67
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img9.jpg",
+      "title": "Платформа для отжиманий с эспандерами 14 в 1",
+      "brand": "NewNoble",
+      "price": 350000,
+      "id": 68
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img10.jpeg",
+      "title": "Платформа для отжиманий с эспандерами 14 в 1",
+      "brand": "NewNoble",
+      "price": 350000,
+      "id": 69
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img11.jpeg",
+      "title": "Мини степпер PowerGym",
+      "brand": "sportGym",
+      "price": 1050000,
+      "id": 70
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img12.jpeg",
+      "title": "Фитнес мяч 85см (904)",
+      "brand": "sportGym",
+      "price": 198000,
+      "id": 71
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img19.jpeg",
+      "title": "Ролик массажный 45см (3105)",
+      "brand": "sportGym",
+      "price": 180000,
+      "id": 77
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img20.jpeg",
+      "title": "Гантели Резиновые 1.5 кг 2шт (3124)",
+      "brand": "sportGym",
+      "price": 260000,
+      "id": 78
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img13.jpeg",
+      "title": "Беговая дорожка PowerGym PG 710",
+      "brand": "sportGym",
+      "price": 7400000,
+      "id": 72
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img14.jpeg",
+      "title": "Гимнастический ролик для пресса",
+      "brand": "sportGym",
+      "price": 205000,
+      "id": 73
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img15.jpeg",
+      "title": "Упоры для отжимания",
+      "brand": "NewNoble",
+      "price": 186000,
+      "id": 74
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img16.jpg",
+      "title": "Велотренажер PowerGym B50",
+      "brand": "sportGym",
+      "price": 3230000,
+      "id": 75
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img18.jpeg",
+      "title": "Велотренажер PowerGym B55",
+      "brand": "sportGym",
+      "price": 3700000,
+      "id": 76
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img21.jpeg",
+      "title": "Инверсионный стол PowerGym A27",
+      "brand": "NewNoble",
+      "price": 2600000,
+      "id": 79
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img22.jpeg",
+      "title": "Универсальная скамья для пресса PowerGym DDS-201",
+      "brand": "PowerGym",
+      "price": 2100000,
+      "id": 80
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img23.jpeg",
+      "title": "Универсальная скамья для пресса PowerGym B10",
+      "brand": "PowerGym",
+      "price": 2800000,
+      "id": 81
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img24.jpeg",
+      "title": "Многофункциональный силовой тренажер PowerGym H99",
+      "brand": "PowerGym",
+      "price": 15300000,
+      "id": 82
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img25.jpeg",
+      "title": "Многофункциональный силовой тренажер PowerGym H68",
+      "brand": "PowerGym",
+      "price": 7201000,
+      "id": 83
+    }
+  ],
   "notebook": [
     {
       "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/notebook/notebook-img.jpg?token=GHSAT0AAAAAACOWD3AT5LM7I5F5NCALJIXKZPG7UXQ",
@@ -860,7 +871,7 @@
     {
       "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/rul/rul-img2.jpg?token=GHSAT0AAAAAACOWD3ATTSK4IQT2HWHMD4JWZPHA3WQ",
       "title": "Руль Lexsus",
-      "price":1138500,
+      "price": 1138500,
       "brand": "Mercedes",
       "id": 121
     },
@@ -2246,7 +2257,7 @@
     {
       "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/rul/rul-img4.jpg?token=GHSAT0AAAAAACOWD3ASZYFO5GCI5WL4SDZYZPHA63A",
       "title": "Руль Malibu 2 original black",
-      "price":  2267860,
+      "price": 2267860,
       "brand": "Mercedes",
       "id": 123
     },
@@ -2541,7 +2552,7 @@
       "id": 226,
       "title": "Стиральная машина Rulls F84INSDG 8 кг",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine26.jpg",
-      "price":  4652000,
+      "price": 4652000,
       "brand": "Rulls"
     },
     {

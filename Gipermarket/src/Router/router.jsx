@@ -10,8 +10,6 @@ import ProductDetail from "../Pages/ProductDetail/product-detail";
 export const Router = () => {
   return (
     <Routes>
-      <Route path="/login" element={<Login />} />
-      <Route path="/register" element={<Register />} />
       <Route path="/" element={<MainLayout />}>
         <Route index element={<Home />} />
         <Route path="/trash" element={<Trash />} />

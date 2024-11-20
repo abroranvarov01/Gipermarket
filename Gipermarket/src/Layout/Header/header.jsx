@@ -7,8 +7,11 @@ import {
   Stack,
   Typography,
   Badge,
+  Drawer,
 } from "@mui/material";
 import React from "react";
+import { Login } from "../../Login";
+import { Register } from "../../Register";
 import { Link } from "react-router-dom";
 import TelIcon from "../../assets/Header/tel-icon";
 import { Colors } from "../../Theme/colors";
@@ -23,6 +26,8 @@ import { useSelector } from "react-redux";
 
 export const Header = () => {
   const { count } = useSelector((state) => state.product);
+  const [open, setOpen] = React.useState(false);
+  const [view, setView] = React.useState("signIn");
 
   return (
     <Box>
@@ -73,8 +78,30 @@ export const Header = () => {
             </Button>
             <Search />
           </Stack>
+          <Drawer
+            PaperProps={{
+              sx: {
+                height: "782px",
+              },
+            }}
+            open={open}
+            anchor="right"
+            onClose={() => setOpen(false)}
+          >
+            {view === "signIn" ? (
+              <Login
+                onClose={() => setOpen(false)}
+                onClick={() => setView("register")}
+              />
+            ) : (
+              <Register
+                onClose={() => setOpen(false)}
+                onClick={() => setView("signIn")}
+              />
+            )}
+          </Drawer>
           <Stack direction={"row"} alignItems={"center"} gap={"32px"}>
-            <CustomIconButton>
+            <CustomIconButton onClick={() => setOpen(true)}>
               <LoginIcon />
               <Typography color={Colors.headerTopText} variant="body1">
                 Войти
